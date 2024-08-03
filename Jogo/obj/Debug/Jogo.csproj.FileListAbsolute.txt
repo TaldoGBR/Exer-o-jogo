@@ -1,0 +1,7 @@
+E:\Taldo codigo\Jogo\Jogo\bin\Debug\Jogo.exe.config
+E:\Taldo codigo\Jogo\Jogo\bin\Debug\Jogo.exe
+E:\Taldo codigo\Jogo\Jogo\bin\Debug\Jogo.pdb
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.exe
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.pdb
